@@ -86,4 +86,270 @@
       "name": "小猫咪资源"
     }
   }
+  "custom_category": [
+  // 电影分类
+  {
+    "name": "电影",
+    "type": "movie",
+    "query": ""
+  },
+  {
+    "name": "喜剧电影",
+    "type": "movie",
+    "query": "喜剧"
+  },
+  {
+    "name": "动作电影",
+    "type": "movie", 
+    "query": "动作"
+  },
+  {
+    "name": "科幻电影",
+    "type": "movie",
+    "query": "科幻"
+  },
+  {
+    "name": "爱情电影",
+    "type": "movie",
+    "query": "爱情"
+  },
+  {
+    "name": "悬疑电影",
+    "type": "movie",
+    "query": "悬疑"
+  },
+  {
+    "name": "恐怖电影",
+    "type": "movie",
+    "query": "恐怖"
+  },
+  {
+    "name": "犯罪电影",
+    "type": "movie",
+    "query": "犯罪"
+  },
+  {
+    "name": "战争电影",
+    "type": "movie",
+    "query": "战争"
+  },
+  {
+    "name": "动画电影",
+    "type": "movie",
+    "query": "动画"
+  },
+  {
+    "name": "华语电影",
+    "type": "movie",
+    "query": "华语"
+  },
+  {
+    "name": "欧美电影",
+    "type": "movie",
+    "query": "欧美"
+  },
+  {
+    "name": "韩国电影",
+    "type": "movie",
+    "query": "韩国"
+  },
+  {
+    "name": "日本电影",
+    "type": "movie",
+    "query": "日本"
+  },
+
+  // 电视剧分类
+  {
+    "name": "电视剧",
+    "type": "tv",
+    "query": ""
+  },
+  {
+    "name": "国产剧",
+    "type": "tv",
+    "query": "国产"
+  },
+  {
+    "name": "美剧",
+    "type": "tv",
+    "query": "美剧"
+  },
+  {
+    "name": "韩剧",
+    "type": "tv",
+    "query": "韩剧"
+  },
+  {
+    "name": "日剧",
+    "type": "tv",
+    "query": "日剧"
+  },
+  {
+    "name": "港台剧",
+    "type": "tv",
+    "query": "港台"
+  },
+  {
+    "name": "悬疑剧",
+    "type": "tv",
+    "query": "悬疑"
+  },
+  {
+    "name": "爱情剧",
+    "type": "tv",
+    "query": "爱情"
+  },
+  {
+    "name": "古装剧",
+    "type": "tv",
+    "query": "古装"
+  },
+  {
+    "name": "都市剧",
+    "type": "tv",
+    "query": "都市"
+  },
+  {
+    "name": "谍战剧",
+    "type": "tv",
+    "query": "谍战"
+  },
+  {
+    "name": "历史剧",
+    "type": "tv",
+    "query": "历史"
+  },
+
+  // 动漫分类
+  {
+    "name": "动漫",
+    "type": "tv",
+    "query": "动漫"
+  },
+  {
+    "name": "国产动漫",
+    "type": "tv",
+    "query": "国产动漫"
+  },
+  {
+    "name": "日本动漫",
+    "type": "tv",
+    "query": "日本动漫"
+  },
+  {
+    "name": "热血动漫",
+    "type": "tv",
+    "query": "热血"
+  },
+  {
+    "name": "恋爱动漫",
+    "type": "tv",
+    "query": "恋爱"
+  },
+  {
+    "name": "搞笑动漫",
+    "type": "tv",
+    "query": "搞笑"
+  },
+  {
+    "name": "奇幻动漫",
+    "type": "tv",
+    "query": "奇幻"
+  },
+  {
+    "name": "科幻动漫",
+    "type": "tv",
+    "query": "科幻"
+  },
+  {
+    "name": "冒险动漫",
+    "type": "tv",
+    "query": "冒险"
+  },
+  {
+    "name": "治愈动漫",
+    "type": "tv",
+    "query": "治愈"
+  },
+
+  // 综艺分类
+  {
+    "name": "综艺",
+    "type": "tv",
+    "query": "综艺"
+  },
+  {
+    "name": "真人秀",
+    "type": "tv",
+    "query": "真人秀"
+  },
+  {
+    "name": "选秀综艺",
+    "type": "tv",
+    "query": "选秀"
+  },
+  {
+    "name": "脱口秀",
+    "type": "tv",
+    "query": "脱口秀"
+  },
+  {
+    "name": "音乐综艺",
+    "type": "tv",
+    "query": "音乐"
+  },
+  {
+    "name": "美食综艺",
+    "type": "tv",
+    "query": "美食"
+  },
+  {
+    "name": "旅行综艺",
+    "type": "tv",
+    "query": "旅行"
+  },
+  {
+    "name": "竞技综艺",
+    "type": "tv",
+    "query": "竞技"
+  },
+  {
+    "name": "访谈综艺",
+    "type": "tv",
+    "query": "访谈"
+  },
+  {
+    "name": "文化综艺",
+    "type": "tv",
+    "query": "文化"
+  },
+
+  // 热门专题
+  {
+    "name": "热门大片",
+    "type": "movie",
+    "query": "热门"
+  },
+  {
+    "name": "豆瓣高分",
+    "type": "movie",
+    "query": "高分"
+  },
+  {
+    "name": "最新上映",
+    "type": "movie",
+    "query": "新片"
+  },
+  {
+    "name": "经典老片",
+    "type": "movie",
+    "query": "经典"
+  },
+  {
+    "name": "院线热映",
+    "type": "movie",
+    "query": "院线"
+  }
+]
 }
